@@ -38,7 +38,9 @@ cd spheres2-background
 <h3>Run the Project</h3>
 <ol>
   <li>Open <code>index.html</code> in a web browser via a local or remote server.</li>
-  <li>Interact with the page to see animations and effects in action.</li>
+  <li>Interact with the page to see animations and effects in action.</li> 
+  <li>You can also run it from this <a href="https://u7k4rs6.github.io/Bubbles/">link</a></li>
+                                      
 </ol>
 
 ---

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  This project demonstrates the use of the <a href="https://github.com/threejs-components/threejs-components">Spheres2Background</a> component from the <strong>Three.js Components Library</strong> to create a dynamic and interactive 3D spheres background. It also utilizes <a href="https://animejs.com/">Anime.js</a> for advanced animation effects.
+  This project demonstrates the use of the <a href="https://github.com/threejs-components/threejs-components">Spheres</a> component from the <strong>Three.js Components Library</strong> to create a dynamic and interactive 3D spheres background. It also utilizes <a href="https://animejs.com/">Anime.js</a> for advanced animation effects.
 </p>
 
 ---
@@ -17,7 +17,6 @@
   <li><strong>Pause/Play Animation:</strong> Click anywhere on the page to toggle the background animation.</li>
   <li><strong>Dynamic Color Change:</strong> Use a button to randomly change sphere colors and light properties.</li>
 </ul>
-
 ---
 
 <h2>⚡ Installation</h2>
